@@ -10,7 +10,7 @@ def print_tasks(tasks):
 
 def main():
     task_manager = TaskManager()
-    task_manager.load_tasks("data/tasks.json")  # Load tasks from file
+    task_manager.load_tasks("data/tasks.json")
 
     while True:
         print("\nTask Manager Menu:")

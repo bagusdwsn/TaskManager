@@ -14,9 +14,9 @@ Direktori proyek terstruktur sebagai berikut:
 
 - `main.py`: Skrip utama untuk menjalankan aplikasi task manager.
 - `tasks/`: Sebuah paket yang berisi modul untuk mengelola tugas.
-  - `books.py`: Modul yang berisi kelas `task_manager.py` dan fungsi-fungsi untuk mencatat tugas.
+  - `task_manager.py`: Modul yang berisi kelas `task_manager.py` dan fungsi-fungsi untuk mencatat tugas.
 - `data/`: Direktori untuk menyimpan file-data.
-  - `books.json`: File JSON untuk menyimpan data tugas.
+  - `tasks.json`: File JSON untuk menyimpan data tugas.
 
 ## Penggunaan
 

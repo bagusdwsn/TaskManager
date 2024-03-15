@@ -1,4 +1,4 @@
-# Katalog Buku
+# Task Manager
 
 Ini adalah proyek sederhana menggunakan Python untuk mengelola tugas. Proyek ini memungkinkan pengguna untuk mencatat tugas.
 
